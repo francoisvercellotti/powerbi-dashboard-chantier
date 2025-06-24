@@ -7,7 +7,7 @@ Il s’appuie sur un jeu de données fictif inspiré d’une entreprise de paysa
 
 ## 📽️ Démo du tableau de bord
 
-![Démonstration du tableau de bord]([video_dashboard.gif])
+![Démonstration du tableau de bord](video_dashboard.gif)
 
 ---
 

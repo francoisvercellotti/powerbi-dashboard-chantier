@@ -5,9 +5,9 @@ Il s’appuie sur un jeu de données fictif inspiré d’une entreprise de paysa
 
 ---
 
-## 📽️ Démo
+## 📽️ Démo du tableau de bord
 
-
+![Démonstration du tableau de bord](assets/screencast_dashboard.gif)
 
 ---
 
